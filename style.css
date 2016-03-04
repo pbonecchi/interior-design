@@ -23,6 +23,11 @@ p {
 	text-align: center;
 }
 
+#small-image {
+	width: 180px;
+	height: 250px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
