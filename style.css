@@ -43,3 +43,14 @@ nav {
 a {
     color: black;
 }
+
+.button {
+    background: #FFBBBB;
+    color: white;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+
+    padding: 20px 30px 20px 30px;
+}
