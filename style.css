@@ -7,7 +7,8 @@ body {
 #main {
 	background: white;
 	padding: 10px 10px 10px 10px;
-	margin: 25px 25px 25px 25px;
+	margin: 40px 40px 40px 40px;
+	min-height: 86%;	
 }
 h1 {
     color: #4D1682;
@@ -16,8 +17,8 @@ h1 {
     text-align: center;
     
     padding: 0px 0px 0px 0px;
-    margin: 15px auto 0px auto;
-    border-bottom: 1px solid black;
+    margin: 15px auto 30px auto;
+    border-bottom: 2px solid #4D1682;
 }
 h2 {
     font-size: 12pt;
@@ -30,9 +31,8 @@ p {
 	text-align: center;
 }
 
-#small-image {
-	width: 180px;
-	height: 250px;
+#main-image {
+	 width: 400px;
 }
 
 ul {
