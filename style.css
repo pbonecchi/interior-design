@@ -1,5 +1,5 @@
 body {
-    background-image: url("symphony.png");
+    background-image: url("images/symphony.png");
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 }
@@ -32,7 +32,7 @@ p {
 }
 
 #main-image {
-	 width: 400px;
+	 width: 500px;
 }
 
 ul {
@@ -60,6 +60,7 @@ nav {
 
 a {
     color: black;
+    text-decoration: none;
 }
 
 h2 {
