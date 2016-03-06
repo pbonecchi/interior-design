@@ -13,7 +13,7 @@ h1 {
     border-bottom: 1px solid black;
 }
 h2 {
-    font-size: 13pt;
+    font-size: 12pt;
     font-family: "Helvetica";
     font-weight: normal;
     text-align: center;
@@ -54,9 +54,9 @@ a {
     color: black;
 }
 
-.button {
-    background: #FFBBBB;
-    color: white;
+h2 {
+    
+    color: black;
     margin-left: 200px;
     margin-top: 30px;
     margin-bottom: 50px;
