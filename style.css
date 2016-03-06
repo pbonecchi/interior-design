@@ -1,6 +1,13 @@
 body {
+    background-image: url("symphony.png");
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+}
+
+#main {
+	background: white;
+	padding: 10px 10px 10px 10px;
+	margin: 25px 25px 25px 25px;
 }
 h1 {
     color: #4D1682;
@@ -48,6 +55,7 @@ nav {
     font-size: 15pt;
     font-family: "Helvetica";
     text-align: center;
+    margin-top: 50px
 }
 
 a {
